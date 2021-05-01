@@ -1,11 +1,12 @@
-import mission from './assets/DSC00136.JPG'
+import mission1 from './assets/DSC00136.JPG'
+import mission2 from './assets/IMG_0542.JPG'
 
 const dummyData = [
     {
         id: 1,
         username: "yungDisrespectful",
         thumbnailUrl: 'https://icon2.cleanpng.com/20180320/sqe/kisspng-twitch-computer-icons-streaming-media-youtube-live-tv-twitch-icon-5ab19172461392.001176751521586546287.jpg',
-        imageUrl: mission,
+        imageUrl: mission1,
         likes: 400,
         timestamp: "July 17th 2017, 12:42:40 pm",
         comments: [
@@ -28,9 +29,9 @@ const dummyData = [
     },
     {
         id: 2,
-        username: "twitch",
+        username: "yaboyelderlalli",
         thumbnailUrl: 'https://icon2.cleanpng.com/20180320/sqe/kisspng-twitch-computer-icons-streaming-media-youtube-live-tv-twitch-icon-5ab19172461392.001176751521586546287.jpg',
-        imageUrl: 'https://images.unsplash.com/photo-1566577134770-3d85bb3a9cc4?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=3750&q=80',
+        imageUrl: mission2,
         likes: 4307,
         timestamp: "July 15th 2017, 03:12:09 pm",
         comments: [
